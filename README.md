@@ -1,13 +1,8 @@
 # 💫 About Me:
-👨‍💻 Tecnólogo desarrollador de software con amplias habilidades en la
-creación de sitios web, aplicaciones móviles y aplicaciones de escritorio. 🌐📱💻
-Cuento con amplios conocimientos en diversos lenguajes de
-programación y en la gestión de bases de datos. 💻💾
-Me apasiona el desarrollo de software y estoy en constante búsqueda de nuevas
-tecnologías y tendencias para mejorar mis habilidades y conocimientos. 🔍🚀📈
-Estoy interesado en trabajar en un entorno desafiante que me permita
-aplicar mis habilidades de programación y al mismo tiempo aprender
-nuevas tecnologías que sean necesarias para el éxito de la empresa. 💪👨‍🎓👀
+
+👨‍💻 Tecnólogo en sistematización de datos con amplias habilidades en el desarrollo de sitios web y aplicaciones móviles. 🌐📱💻
+Cuento con conocimientos en diversos lenguajes de programación y en la gestión de bases de datos. 💻💾 Me apasiona el desarrollo de software y estoy en constante búsqueda de nuevas
+tecnologías y tendencias para mejorar mis habilidades y conocimientos. 🔍🚀📈 Estoy interesado en trabajar en un entorno desafiante que me permita aplicar mis habilidades y aprender nuevas tecnologías. 💪👨‍🎓👀
 
 
 ## 🌐 Socials:
