@@ -1,8 +1,10 @@
 # 💫 About Me:
 
 👨‍💻 Tecnólogo en sistematización de datos con amplias habilidades en el desarrollo de sitios web y aplicaciones móviles. 🌐📱💻
-Cuento con conocimientos en diversos lenguajes de programación y en la gestión de bases de datos. 💻💾 Me apasiona el desarrollo de software y estoy en constante búsqueda de nuevas
-tecnologías y tendencias para mejorar mis habilidades y conocimientos. 🔍🚀📈 Estoy interesado en trabajar en un entorno desafiante que me permita aplicar mis habilidades y aprender nuevas tecnologías. 💪👨‍🎓👀
+Cuento con conocimientos en diversos lenguajes de programación y en la gestión de bases de datos. 💻💾 
+Me apasiona el desarrollo de software y estoy en constante búsqueda de nuevas
+tecnologías y tendencias para mejorar mis habilidades y conocimientos. 🔍🚀📈 
+Estoy interesado en trabajar en un entorno desafiante que me permita aplicar mis habilidades y aprender nuevas tecnologías. 💪👨‍🎓👀
 
 
 ## 🌐 Socials:
